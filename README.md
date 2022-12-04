@@ -3,11 +3,11 @@
 Este é um repositório repositório com a última versão valida dos dados abertos do Cadastro Nacional de Pessoa Jurídica (CNPJ) compilados, disponíveis em:
 https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica-cnpj
 
-Os dados estão publicados como Releases aqui no github: 
+### Os dados estão publicados como Releases aqui no github: 
 
 https://github.com/jonathands/dados-abertos-receita-cnpj/releases
 
-## Link alternativo do GoogleDrive
+## Link alternativo no GoogleDrive
 https://drive.google.com/drive/folders/1tyxfLODt9LC8G3bvXbvEwKhJvJ66-Xxs?usp=sharing
 
 ## Acesso facil ao download de cada zip
