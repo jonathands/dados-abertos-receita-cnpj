@@ -12,7 +12,7 @@ https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.
 
 ## Link alternativo no GoogleDrive
 https://drive.google.com/drive/folders/1tyxfLODt9LC8G3bvXbvEwKhJvJ66-Xxs?usp=sharing
-* 2022.10 : https://drive.google.com/drive/folders/1JeHEG6xmzmrDxXPn3TYFyNlBWux_wpcl
+* 2023.01 : https://drive.google.com/drive/folders/1JeHEG6xmzmrDxXPn3TYFyNlBWux_wpcl
 * 2022.11 : https://drive.google.com/drive/folders/1zRr4VUcIlsb0pcnbN75JoveggNcJabwc
 
 
