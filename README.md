@@ -58,7 +58,7 @@ https://drive.google.com/drive/folders/1tyxfLODt9LC8G3bvXbvEwKhJvJ66-Xxs?usp=sha
     wget https://dadosabertos.rfb.gov.br/CNPJ/Socios8.zip
     wget https://dadosabertos.rfb.gov.br/CNPJ/Socios9.zip
 
-## Acesso facil ao download de cada zip
+## Acesso fácil ao download de cada zip
 
     wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.01/Cnaes.zip
     wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.01/Empresas0.zip
