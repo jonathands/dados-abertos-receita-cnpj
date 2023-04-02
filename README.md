@@ -57,6 +57,47 @@ https://drive.google.com/drive/folders/1tyxfLODt9LC8G3bvXbvEwKhJvJ66-Xxs?usp=sha
     wget https://dadosabertos.rfb.gov.br/CNPJ/Socios7.zip
     wget https://dadosabertos.rfb.gov.br/CNPJ/Socios8.zip
     wget https://dadosabertos.rfb.gov.br/CNPJ/Socios9.zip
+    
+## Testando os ZIPs
+
+    unzip -t Cnaes.zip
+    unzip -t Empresas0.zip
+    unzip -t Empresas1.zip
+    unzip -t Empresas2.zip
+    unzip -t Empresas3.zip
+    unzip -t Empresas4.zip
+    unzip -t Empresas5.zip
+    unzip -t Empresas6.zip
+    unzip -t Empresas7.zip
+    unzip -t Empresas8.zip
+    unzip -t Empresas9.zip
+    unzip -t Estabelecimentos0.zip
+    unzip -t Estabelecimentos1.zip
+    unzip -t Estabelecimentos2.zip
+    unzip -t Estabelecimentos3.zip
+    unzip -t Estabelecimentos4.zip
+    unzip -t Estabelecimentos5.zip
+    unzip -t Estabelecimentos6.zip
+    unzip -t Estabelecimentos7.zip
+    unzip -t Estabelecimentos8.zip
+    unzip -t Estabelecimentos9.zip
+    unzip -t LAYOUT_DADOS_ABERTOS_CNPJ.pdf
+    unzip -t Motivos.zip
+    unzip -t Municipios.zip
+    unzip -t Naturezas.zip
+    unzip -t Paises.zip
+    unzip -t Qualificacoes.zip
+    unzip -t Simples.zip
+    unzip -t Socios0.zip
+    unzip -t Socios1.zip
+    unzip -t Socios2.zip
+    unzip -t Socios3.zip
+    unzip -t Socios4.zip
+    unzip -t Socios5.zip
+    unzip -t Socios6.zip
+    unzip -t Socios7.zip
+    unzip -t Socios8.zip
+    unzip -t Socios9.zip
 
 ## Acesso fácil ao download de cada zip
 
