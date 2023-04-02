@@ -8,7 +8,7 @@ https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-jurdica--
 https://github.com/jonathands/dados-abertos-receita-cnpj/releases
 
 #### Última release no github
-https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.01/
+https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.03/
 
 ## Link alternativo no GoogleDrive
 https://drive.google.com/drive/folders/1tyxfLODt9LC8G3bvXbvEwKhJvJ66-Xxs?usp=sharing
