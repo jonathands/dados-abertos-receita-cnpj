@@ -1,3 +1,44 @@
+### Arquivos para Release 2023.07
+
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Empresas0.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Empresas1.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Empresas2.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Empresas3.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Empresas4.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Empresas5.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Empresas6.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Empresas7.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Empresas8.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Empresas9.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Estabelecimentos0.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Estabelecimentos1.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Estabelecimentos2.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Estabelecimentos3.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Estabelecimentos4.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Estabelecimentos5.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Estabelecimentos6.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Estabelecimentos7.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Estabelecimentos8.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Estabelecimentos9.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/LAYOUT_DADOS_ABERTOS_CNPJ.pdf 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Motivos.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Municipios.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Naturezas.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Paises.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Qualificacoes.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Simples.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Socios0.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Socios1.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Socios2.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Socios3.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Socios4.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Socios5.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Socios6.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Socios7.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Socios8.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.07/Socios9.zip 
+
+
 ### Arquivos para Release 2023.05
      
     wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.05/Empresas1.zip 
