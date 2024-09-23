@@ -1,3 +1,84 @@
+## release 2024.09
+agora os dados da receita estao disponiveis mês a mês acessando https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/
+
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Empresas0.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Empresas1.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Empresas2.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Empresas3.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Empresas4.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Empresas5.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Empresas6.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Empresas7.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Empresas8.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Empresas9.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Estabelecimentos0.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Estabelecimentos1.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Estabelecimentos2.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Estabelecimentos3.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Estabelecimentos4.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Estabelecimentos5.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Estabelecimentos6.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Estabelecimentos7.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Estabelecimentos8.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Estabelecimentos9.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/LAYOUT_DADOS_ABERTOS_CNPJ.pdf
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Motivos.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Municipios.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Naturezas.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Paises.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Qualificacoes.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Simples.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Socios0.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Socios1.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Socios2.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Socios3.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Socios4.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Socios5.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Socios6.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Socios7.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Socios8.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Socios9.zip
+  
+### Arquivos para Release 2024.09
+
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.092024.09/Empresas0.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Empresas1.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Empresas2.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Empresas3.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Empresas4.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Empresas5.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Empresas6.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Empresas7.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Empresas8.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Empresas9.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Estabelecimentos0.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Estabelecimentos1.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Estabelecimentos2.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Estabelecimentos3.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Estabelecimentos4.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Estabelecimentos5.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Estabelecimentos6.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Estabelecimentos7.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Estabelecimentos8.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Estabelecimentos9.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/LAYOUT_DADOS_ABERTOS_CNPJ.pdf 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Motivos.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Municipios.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Naturezas.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Paises.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Qualificacoes.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Simples.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Socios0.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Socios1.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Socios2.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Socios3.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Socios4.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Socios5.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Socios6.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Socios7.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Socios8.zip 
+* wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.09/Socios9.zip 
+
 ### Arquivos para Release 2024.05
 
 * wget https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2024.05/Empresas0.zip 
@@ -221,44 +302,43 @@ https://github.com/jonathands/dados-abertos-receita-cnpj/releases/download/2023.
 
 ## Script de download direto dos dados
 
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Cnaes.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Empresas0.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Empresas1.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Empresas2.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Empresas3.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Empresas4.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Empresas5.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Empresas6.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Empresas7.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Empresas8.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Empresas9.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Estabelecimentos0.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Estabelecimentos1.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Estabelecimentos2.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Estabelecimentos3.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Estabelecimentos4.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Estabelecimentos5.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Estabelecimentos6.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Estabelecimentos7.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Estabelecimentos8.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Estabelecimentos9.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/LAYOUT_DADOS_ABERTOS_CNPJ.pdf
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Motivos.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Municipios.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Naturezas.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Paises.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Qualificacoes.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Simples.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Socios0.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Socios1.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Socios2.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Socios3.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Socios4.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Socios5.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Socios6.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Socios7.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Socios8.zip
-    wget https://dadosabertos.rfb.gov.br/CNPJ/Socios9.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Empresas0.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Empresas1.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Empresas2.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Empresas3.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Empresas4.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Empresas5.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Empresas6.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Empresas7.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Empresas8.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Empresas9.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Estabelecimentos0.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Estabelecimentos1.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Estabelecimentos2.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Estabelecimentos3.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Estabelecimentos4.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Estabelecimentos5.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Estabelecimentos6.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Estabelecimentos7.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Estabelecimentos8.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Estabelecimentos9.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/LAYOUT_DADOS_ABERTOS_CNPJ.pdf
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Motivos.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Municipios.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Naturezas.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Paises.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Qualificacoes.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Simples.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Socios0.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Socios1.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Socios2.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Socios3.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Socios4.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Socios5.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Socios6.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Socios7.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Socios8.zip
+  wget https://dadosabertos.rfb.gov.br/CNPJ/dados_abertos_cnpj/2024-09/Socios9.zip
     
 ## Testando os ZIPs
 
